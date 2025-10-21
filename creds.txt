@@ -1,0 +1,8 @@
+        const firebaseConfig = {
+             apiKey: "AIzaSyAQsSY071m37J6xtj8LqsOQBPcl1TgwubY",
+                authDomain: "notepadpw.firebaseapp.com",
+                projectId: "notepadpw",
+                storageBucket: "notepadpw.firebasestorage.app",
+                messagingSenderId: "908658230513",
+                appId: "1:908658230513:web:8058baa0356f5baaffd550"
+        };
